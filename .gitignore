@@ -12,11 +12,6 @@ dist
 dist-ssr
 *.local
 
-_bin
-*.bu.css
-*.bu.jsx
-*.bu.js
-
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
@@ -27,4 +22,3 @@ _bin
 *.njsproj
 *.sln
 *.sw?
-.vercel
